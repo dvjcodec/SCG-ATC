@@ -26,7 +26,7 @@ Modular Automatic Transmission controller working as a shield for Arduino Mega 2
 * [Speeduino-GearControl](https://github.com/dvjcodec/dxControl-Gears)
 
 ## Support
-* [Official Website [PL]](http://www.due3dom.pl/)
+* [Speeduino Forum]](https://speeduino.com/forum/)
 
 ## Where to buy?
 * [Seaside Customs Garage](http://www.garage.seasidecustoms.com)

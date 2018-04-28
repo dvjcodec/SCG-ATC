@@ -1,6 +1,6 @@
 # SCG-ATC
 
-Modular Automatic Transmission controller working as a shield for Arduino Mega 2560. UNTESTED !!
+Modular Automatic Transmission Controller working as a shield for Arduino Mega 2560. UNTESTED !!
 
 ![Board](renders/1.jpg?raw=true "Board")
 

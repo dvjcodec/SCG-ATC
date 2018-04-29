@@ -28,10 +28,6 @@ Modular Automatic Transmission Controller working as a shield for Arduino Mega 2
 ## Support
 * [Speeduino Forum](https://speeduino.com/forum/viewtopic.php?f=15&t=1827/)
 
-## Where to buy?
-* [Seaside Customs Garage](http://www.garage.seasidecustoms.com)
-* Contact: [@dvjcodec](https://github.com/dvjcodec/)
-
 ## License
 [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
